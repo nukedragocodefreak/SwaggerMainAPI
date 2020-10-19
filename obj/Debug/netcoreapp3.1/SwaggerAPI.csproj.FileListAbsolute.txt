@@ -1,0 +1,96 @@
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.exe
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.deps.json
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.json
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.dev.json
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.pdb
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csprojAssemblyReference.cache
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfoInputs.cache
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfo.cs
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CopyComplete
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.Manifest.cache
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.xml
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.pdb
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.genruntimeconfig.cache
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\SwaggerAPI.xml
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Noel\Desktop\projects\SwaggerAPI\obj\Debug\netcoreapp3.1\SwaggerAPI.xml
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.exe
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.deps.json
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.json
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.dev.json
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.pdb
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.xml
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.csprojAssemblyReference.cache
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfoInputs.cache
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfo.cs
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CopyComplete
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.Manifest.cache
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.xml
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.dll
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.xml
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.pdb
+C:\Users\Tendai Mudadi\Downloads\SwaggerAPI-main\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.genruntimeconfig.cache
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.exe
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.deps.json
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.json
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.runtimeconfig.dev.json
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.pdb
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\SwaggerAPI.xml
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.csprojAssemblyReference.cache
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfoInputs.cache
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.AssemblyInfo.cs
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.csproj.CopyComplete
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.Manifest.cache
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\staticwebassets\SwaggerAPI.StaticWebAssets.xml
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.dll
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.xml
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.pdb
+C:\Users\Noel\Desktop\SwaggerAPI-main\obj\Debug\netcoreapp3.1\SwaggerAPI.genruntimeconfig.cache
