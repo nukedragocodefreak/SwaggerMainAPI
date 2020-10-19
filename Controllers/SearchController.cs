@@ -21,9 +21,9 @@ namespace SwaggerAPI.Controllers
             _requestService = requestService;
         }
         [HttpPost]
-          public ActionResult <Task<object>> Search(SearchData searchData)
+          public async Task<object> Search(SearchData searchData)
          {
-              var _chuckswapi = _repository.Search(searchData);
+              var _chuckswapi = await _repository.Search(searchData);
               return (_chuckswapi);
          }
     }
